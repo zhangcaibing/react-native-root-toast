@@ -17,7 +17,7 @@
         "video",
         "focus"
     ],
-    "dependencies": {
-        "react-native-root-siblings": "^1.2.1"
+    "peerDependencies": {
+        "react-native-root-siblings": "*"
     }
 }
